@@ -18,5 +18,12 @@
 
 ##Issues Faced and solution
 
-- Problem: Enabling the codex and claude code through extension was giving me hard time as I was enable to find them in the marketplace of Cursor
-- Solution: I installed the Codex and Claude code through the installation command.
+- Problem:
+
+1. Enabling the codex and claude code through extension was giving me hard time as I was enable to find them in the marketplace of Cursor
+2. While commiting the code, it was giving the authentication error.
+
+- Solution:   
+1. I installed the Codex and Claude code through the installation command.  
+2. To fix this, I generated a classic token on the github and used it to authenticate and commit the changes
+
