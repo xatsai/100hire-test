@@ -1,5 +1,5 @@
 #Hi I am Arpit Jain, Please find the required infromation below  
-  
+
 ##Tools Installed
 
 - Cursor
@@ -20,4 +20,3 @@
 
 - Problem: Enabling the codex and claude code through extension was giving me hard time as I was enable to find them in the marketplace of Cursor
 - Solution: I installed the Codex and Claude code through the installation command.
-
