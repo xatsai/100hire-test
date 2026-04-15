@@ -1,3 +1,25 @@
+Level 2
+
+#Research
+
+- My topic is "AI-powered SEO content production"
+- I researched about top creators, influencers, teachers and practioniers of AI SEO.
+- I choose on the basis of their engagement, their social score and practical experience.
+- I found their active channels and found the relevant content around the AI SEO
+- I listed all the related resource in the research/sources.md
+
+#Folder Creation
+
+- On the basis of instructions, I created the research folder and other related folders
+- My plan is to make each creators in folder in the sub linkedin-post, others, and youtube-transcript folders
+- In each of creators folder there will be seprate files consisting of the transcription of the youtube video, linkedin post or other related items
+- In research/sources.md, I have mentioned all the resources used
+- I also created a scripts folder where I will using the scripts to fetch the transcription of youtube videos and linkedin post scraper.
+
+--------------------------------------------------------------------------
+
+Level 1
+
 #Hi I am Arpit Jain, Please find the required infromation below  
 
 ##Tools Installed
