@@ -111,8 +111,17 @@ Edward Sturm shares actionable insights on modern SEO strategies, particularly a
 ---
 
 ## 8. Jasper AI
-- Blog: https://www.jasper.ai/blog
-- YouTube: https://www.youtube.com/@JasperAI
+
+- Youtube:
+https://www.youtube.com/watch?v=t7PD_dQQz-M
+https://www.youtube.com/watch?v=LmXBtWOb_ns
+https://www.youtube.com/watch?v=aflQ07lmmtI
+https://www.youtube.com/watch?v=P0w2f6_prhY
+
+- Blog:
+https://www.jasper.ai/blog/state-of-ai-marketing-2026
+https://www.jasper.ai/blog/ai-maturity-2026
+https://www.jasper.ai/blog/ai-strategy-benchmarking-tool-2026
 
 ### Why Selected:
 Jasper represents the AI-first content movement, offering insight into how AI tools are being positioned and used in content and SEO workflows.
@@ -120,9 +129,17 @@ Jasper represents the AI-first content movement, offering insight into how AI to
 ---
 
 ## 9. Michael King (iPullRank)
-- Blog: https://ipullrank.com/blog
-- LinkedIn: https://www.linkedin.com/in/michael-king-seo/
-- YouTube: 
+
+- YouTube:
+https://www.youtube.com/watch?v=TOjda22Zatw
+https://www.youtube.com/watch?v=vhZS8trALwQ
+
+- Blog: 
+https://ipullrank.com/how-ai-mode-works
+https://ipullrank.com/ai-search-metrics
+
+- LinkedIn: https://www.linkedin.com/in/michaelkingphilly/
+ 
 
 
 ### Why Selected:
