@@ -23,6 +23,23 @@ Level 2
 - I installed some dependencies for youtube transcription. As I need to transcript many videos I used youtube transcript script instead of using supadata.
 - I created script using codex such that if I add more youtube videos and run the script it will automatically creates the file and trancription in the research/youtube-transcripts.
 
+#Linkedin Scraping
+
+- Initially I thought to manually scrap the linkedin post but imo it is not scalable. So I tried to find some resources to scrap the linkedin posts of the creators. I came across Apify which gives $5 free credits. I used it to scrap LinkedIn posts
+- The major problem I faced is to scrap the images and videos. I am still working how to convert image or video into text or something for the analysis
+- From APify api I scraped the linkedin post as the Linkedin profiles are saved in the research/soruces.md. To make the posts relevant I introduced some filters like posts that have more 5 likes and 5 comments and relevant to keywords like ai, seo, chatgpt, llm etc. should be fetched. On the basis of the keyowrd relevance I asked codex to provide the score to the post.
+- I automated the folders creation and file creation throught the scripts/linkedin-scraper.js
+- I saved the API key in the .env folder so that it remains secure.
+- Lastly, I filtered out some of the non-relevants posts.
+
+#Blogs Scraping
+
+- I already listed the blog resources in the research/soruces.md
+- I asked codex to create a script for the blog scrapping from the urls
+- It installed the dependencies and created a script and then run the script. This process was easy and smooth
+- Then it run the script and fetched the blogs related information and created the relevant folders and files in it
+- Atlast, I asked codex to clean the data as meta data etc. also got fetched so it updated the scraper and clean the data
+
 --------------------------------------------------------------------------
 
 Level 1
