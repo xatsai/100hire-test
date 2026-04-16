@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/xatsai/100hire-test#readme",
   "dependencies": {
+    "apify-client": "^2.23.0",
     "axios": "^1.15.0",
     "dotenv": "^17.4.2",
     "fs-extra": "^11.3.4",
