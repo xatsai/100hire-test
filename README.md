@@ -16,6 +16,13 @@ Level 2
 - In research/sources.md, I have mentioned all the resources used
 - I also created a scripts folder where I will using the scripts to fetch the transcription of youtube videos and linkedin post scraper.
 
+#Youtube Transcription
+
+- I saved my sources in the sources.md
+- I used codex to automate the folder creation and trancript file creation part. Folder name is by the creators name and file follows video_title.md nomenclature
+- I installed some dependencies for youtube transcription. As I need to transcript many videos I used youtube transcript script instead of using supadata.
+- I created script using codex such that if I add more youtube videos and run the script it will automatically creates the file and trancription in the research/youtube-transcripts.
+
 --------------------------------------------------------------------------
 
 Level 1
