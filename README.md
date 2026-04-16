@@ -1,6 +1,27 @@
-Level 2
+#TL;DR
 
-#Research
+This project builds an automated research pipeline to analyze AI-powered SEO strategies from top industry experts.
+
+It collects data from multiple sources:
+
+- YouTube (video transcripts)
+- LinkedIn (expert posts via Apify)
+- Blogs (long-form content)
+
+The system processes and organizes this data into a structured format for further analysis.
+
+Key Features
+- Automated YouTube transcript extraction
+- LinkedIn post scraping using Apify API
+- Blog content scraping using Axios + Cheerio
+- Keyword-based filtering for AI & SEO relevance
+- Organized dataset generation by influencer
+- Scalable script-based architecture for research workflows
+
+
+#Level 2
+
+##Research
 
 - My topic is "AI-powered SEO content production"
 - I researched about top creators, influencers, teachers and practioniers of AI SEO.
@@ -8,7 +29,7 @@ Level 2
 - I found their active channels and found the relevant content around the AI SEO
 - I listed all the related resource in the research/sources.md
 
-#Folder Creation
+##Folder Creation
 
 - On the basis of instructions, I created the research folder and other related folders
 - My plan is to make each creators in folder in the sub linkedin-post, others, and youtube-transcript folders
@@ -16,14 +37,14 @@ Level 2
 - In research/sources.md, I have mentioned all the resources used
 - I also created a scripts folder where I will using the scripts to fetch the transcription of youtube videos and linkedin post scraper.
 
-#Youtube Transcription
+##Youtube Transcription
 
 - I saved my sources in the sources.md
 - I used codex to automate the folder creation and trancript file creation part. Folder name is by the creators name and file follows video_title.md nomenclature
 - I installed some dependencies for youtube transcription. As I need to transcript many videos I used youtube transcript script instead of using supadata.
 - I created script using codex such that if I add more youtube videos and run the script it will automatically creates the file and trancription in the research/youtube-transcripts.
 
-#Linkedin Scraping
+##Linkedin Scraping
 
 - Initially I thought to manually scrap the linkedin post but imo it is not scalable. So I tried to find some resources to scrap the linkedin posts of the creators. I came across Apify which gives $5 free credits. I used it to scrap LinkedIn posts
 - The major problem I faced is to scrap the images and videos. I am still working how to convert image or video into text or something for the analysis
@@ -32,7 +53,7 @@ Level 2
 - I saved the API key in the .env folder so that it remains secure.
 - Lastly, I filtered out some of the non-relevants posts.
 
-#Blogs Scraping
+##Blogs Scraping
 
 - I already listed the blog resources in the research/soruces.md
 - I asked codex to create a script for the blog scrapping from the urls
