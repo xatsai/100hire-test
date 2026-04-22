@@ -1,6 +1,6 @@
 #TL;DR
 
-This project builds an automated research pipeline to analyze AI-powered SEO strategies from top industry experts.
+This project builds an automated research pipeline to analyze AI-powered SEO strategies from top industry experts and included the analysis report in the playbook.md file
 
 It collects data from multiple sources:
 
@@ -17,8 +17,23 @@ Key Features
 - Keyword-based filtering for AI & SEO relevance
 - Organized dataset generation by influencer
 - Scalable script-based architecture for research workflows
+- Combining the scrapped content from the various file
 
 -----------------------------------------------------------------------------
+
+# Level 3
+
+## Analysis
+
+- I already had the scrapped content for each of the influencer in the seprate folders
+- I combined all the content of each influencer in the analysis folder using python script
+- Once I have the combined content then I use claude to analyze the content and give me the insights and I saved them in analysis/extracted-insights
+- I reviewed the insights and removed the extra one
+- Then I manually analyze all the insights and find the patterns and started creating the playbook.md file
+
+
+----------------------------------------------------------------------------
+
 
 #Level 2
 

@@ -1,0 +1,137 @@
+[
+    {
+      "insight": "Traditional SERP rankings are a prerequisite for AI Overview visibility. 76% of AI Overview citations come from pages already ranking in the top 10, with the median cited page sitting at position #2. Win organic search first — AI citation follows.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/how-to-rank-in-ai-overviews/"
+      },
+      "quote": "Our analysis of 1.9 million AI Overview citations found that 76% can also be found ranking in the top 10, with the median ranking for top-cited URLs being position 2."
+    },
+    {
+      "insight": "Content density beats length for AI citation. There is near-zero correlation (Spearman ~0.04) between word count and AI Overview citations. AI grounding plateaus at ~540 words, and pages over 2,000 words see diminishing returns. Adding tangential content dilutes focus, hurts intent match, and actively reduces AI visibility.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/how-to-rank-in-ai-overviews/"
+      },
+      "quote": "Adding more content dilutes your coverage percentage without increasing what gets selected… grounding plateaus at ~540 words, and pages over 2,000 words see diminishing returns."
+    },
+    {
+      "insight": "Answer the query at the top of the page, and structure content in atomic sections — each paragraph or section should make sense independently. LLMs chunk pages sequentially when selecting what to extract and heavily weight the beginning of each section.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/how-to-rank-in-ai-overviews/"
+      },
+      "quote": "Your main goal should be to answer the user's query directly and early on—burying the lede just delays a Large Language Model's semantic understanding of your content."
+    },
+    {
+      "insight": "Optimize for AI fan-out queries — the sub-queries an AI generates internally from a single user prompt. Pages that rank across fan-out queries are 161% more likely to be cited in AI Overviews (Spearman correlation: 0.77). Use the free tool Qforia (enter keyword + Gemini API key) to extract fan-out queries for any topic, then map gaps to existing content.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/how-to-rank-in-ai-overviews/"
+      },
+      "quote": "Pages that rank across these fan-out queries are 161% more likely to be cited in the final AI Overview than pages that only rank for the primary search term."
+    },
+    {
+      "insight": "Brand mentions are the #1 factor correlating with AI visibility — outperforming backlinks, referring domains, and domain rating. A study of 75,000 brands found 0.66–0.71 Spearman correlation between branded web mentions and visibility across ChatGPT, AI Mode, and AI Overviews. For Google AI Overviews, prioritize mentions on highly-linked pages; for ChatGPT and Perplexity, prioritize high-traffic pages.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=gReszNnykpg"
+      },
+      "quote": "Branded mentions are so important that they have the strongest correlation with visibility in Google's AI overviews — higher than backlinks, referring domains, and domain rating."
+    },
+    {
+      "insight": "YouTube is the most cited domain in Google AI Overviews and AI Mode. OpenAI has trained on over 1 million hours of YouTube transcripts. To build AI visibility, actively invest in YouTube — sponsor creators producing tutorials or comparisons in your category, and use AI tools to optimize video scripts for watch-time retention, since longer watch time improves YouTube's search ranking and therefore AI citation frequency.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=RwKKLnyXCig"
+      },
+      "quote": "YouTube mentions are the strongest correlating factor followed by YouTube mention impressions. YouTube is a huge repository of natural language content."
+    },
+    {
+      "insight": "Freshness is a retrieval signal for RAG-based AI systems, not just a ranking signal. AI-cited content is 25.7% fresher than content appearing in regular Google results. Maintain a regular content refresh cycle — update facts, add new quotes or stats, remove outdated sections, and redate posts when changes are meaningful.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=gReszNnykpg"
+      },
+      "quote": "Content cited by AI is 25.7% fresher than the content that shows up in regular Google results… Freshness isn't just a ranking signal anymore. It's a retrieval signal in this AI era."
+    },
+    {
+      "insight": "Only 7 of the top 50 cited domains appear across all three major AI platforms (Google AI Overviews, ChatGPT, Perplexity) — 86% of cited sources are unique per platform. Google AI leans on YouTube, Reddit, and Quora; ChatGPT favors news publishers; Perplexity favors niche/regional sites. Brand presence must be diversified across all three ecosystems, not just Google.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=gReszNnykpg"
+      },
+      "quote": "Only seven of those domains appeared on all three lists. That means that 86% of sources are unique to each assistant."
+    },
+    {
+      "insight": "Create persona-specific comparison and alternative pages (e.g., 'QuickBooks alternative for graphic designers' rather than generic 'QuickBooks vs FreshBooks'). AI assistants use known user context to match citations to prompts — persona-targeted content gets surfaced when the AI identifies a query from that audience type.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=RwKKLnyXCig"
+      },
+      "quote": "Creating content around comparisons that speak to a certain type of user are a great way to leverage what the LLM knows about that person and support its reasoning journey in generating an answer."
+    },
+    {
+      "insight": "Publish specific, detailed official brand content — exact pricing, features, how-it-works pages, and quotable superlatives. If your own pages are vague, AI fills the gap from whatever sounds most authoritative, which may be a competitor. Replace generic claims ('industry-leading') with specific ones ('fastest at X', 'best for Y use case') — specificity is what gets cited.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/semantic-search/"
+      },
+      "quote": "If your official sources are vague or incomplete, AI fills the gaps with whatever sounds most authoritative. And 'authoritative' often just means 'specific.'"
+    },
+    {
+      "insight": "Never start an AI content project without building verified source-of-truth reference files first — product specs, competitor pricing, feature comparisons, and brand voice guidelines. AI writing tools that self-research by scraping Google's top results launder errors through consensus. Always supply your own data. If a project takes four weeks, use three weeks on reference files.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/"
+      },
+      "quote": "Never start any AI content project until your knowledge files are done. If your project is meant to take four weeks, use three weeks for those files."
+    },
+    {
+      "insight": "Break AI content production into discrete, repeatable prompt steps (fact-checking → style enforcement → product positioning → consistency checking) rather than one-shotting an article. For high-stakes steps, run the prompt twice or pass the same check through a second AI model. This modular approach also scales into automated pipelines via Claude Code or similar agentic tools.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/"
+      },
+      "quote": "Break your workflow into repeatable tasks and develop prompts for each: Fact-checking. Internal consistency checking. Style and structure enforcement. Product positioning enforcement."
+    },
+    {
+      "insight": "Audit your product documentation as a GEO content asset. If an AI assistant cannot answer a basic question about your product using your own published content, a competitor page or hallucination will fill that gap. Your docs are your brand's voice inside every AI conversation.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/what-ai-writing-tools-get-wrong-and-the-stack-i-use/"
+      },
+      "quote": "Your product documentation is your brand's voice inside every AI conversation now."
+    },
+    {
+      "insight": "Before targeting any keyword with AI-assisted content, manually check whether the query triggers a fully satisfying AI Overview. If it does, ranking #1 still yields minimal clicks. Prioritize informational 'why' queries (59.8% AI Overview trigger rate) and question-based queries over 7 words — these offer the highest citation opportunity. Avoid shallow 'what is' queries where AI answers are self-contained.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "Blog",
+        "URL": "https://ahrefs.com/blog/how-to-rank-in-ai-overviews/"
+      },
+      "quote": "'Reason' queries trigger AI Overviews 59.8% of the time—the highest rate of any category we studied."
+    },
+    {
+      "insight": "Prioritize building interactive tool pages (calculators, checkers, generators) over informational blog posts. Tool-type queries show almost no AI Overview interference — users must interact, not just read. One well-built tool can outperform 50 blog posts in both traffic and backlinks, and is largely immune to AI click cannibalization.",
+      "source": {
+        "name": "Ahrefs",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=KjK5-L-wDVg"
+      },
+      "quote": "When someone searches for a tool, they need to actually use something. AI can't replace that yet… One good tool can outperform 50 blog posts in both traffic and links."
+    }
+  ]

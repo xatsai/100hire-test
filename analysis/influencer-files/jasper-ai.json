@@ -1,0 +1,33 @@
+{
+  "author": "jasper-ai",
+  "files": [
+    {
+      "type": "blog",
+      "path": "research/others/jasper-ai/ai-maturity-is-the-strongest-predictor-of-impact-in-2026-the-jasper-blog.md"
+    },
+    {
+      "type": "blog",
+      "path": "research/others/jasper-ai/ai-strategy-benchmarking-tool-how-does-your-team-stack-up-the-jasper-blog.md"
+    },
+    {
+      "type": "blog",
+      "path": "research/others/jasper-ai/new-research-the-state-of-ai-in-marketing-2026-the-jasper-blog.md"
+    },
+    {
+      "type": "youtube",
+      "path": "research/youtube-transcripts/jasper-ai/jasper-x-marketing-ai-institute-how-to-massively-increase-content-roi-with-ai.md"
+    },
+    {
+      "type": "youtube",
+      "path": "research/youtube-transcripts/jasper-ai/jasper-x-semrush-from-seo-to-geo-the-new-rules-of-search-discovery-and-strategy-in-the-ai-era.md"
+    },
+    {
+      "type": "youtube",
+      "path": "research/youtube-transcripts/jasper-ai/scaling-seo-aeo-geo-content-with-jasper-s-optimization-agent.md"
+    },
+    {
+      "type": "youtube",
+      "path": "research/youtube-transcripts/jasper-ai/the-spotlight-conversation-on-ai-with-gitlab-cmo-ashley-kramer.md"
+    }
+  ]
+}

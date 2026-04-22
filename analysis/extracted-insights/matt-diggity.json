@@ -1,0 +1,152 @@
+[
+  {
+    "insight": "Distribute content across multiple platforms (blogs, Reddit, YouTube, PR, reviews) to improve AI visibility, since LLMs build brand understanding from diverse third-party and owned sources.",
+    "source": {
+      "name": "Multi-source (Blog + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/news-roundup-jan-2026/",
+        "https://www.youtube.com/watch?v=l0WAnyRZs_4"
+      ]
+    },
+    "quote": "Visibility... will require a multi-site strategy... 85% of brand mentions originate from third-party pages."
+  },
+  {
+    "insight": "Actively build presence on community platforms (e.g., Reddit, YouTube) and encourage user-generated content like reviews and discussions to increase chances of being cited in AI answers.",
+    "source": {
+      "name": "Multi-source (Blog + Case Study + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/reddit-engagement-case-study/",
+        "https://www.youtube.com/watch?v=iSrnEAnmSEo"
+      ]
+    },
+    "quote": "Reddit discussions are consistently part of the evidence those systems pull from... 48% of LLM citations come from community platforms."
+  },
+  {
+    "insight": "Create simple, high-utility tools in your niche (calculators, generators, utilities) to satisfy user intent and increase visibility in both search and LLM outputs.",
+    "source": {
+      "name": "Multi-source (Blog + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/news-roundup-feb-2026/",
+        "https://www.youtube.com/watch?v=Qs_p21vLp1A"
+      ]
+    },
+    "quote": "creating value for both searchers and LLMs by providing simple tools that meet common users’ needs"
+  },
+  {
+    "insight": "Build topical authority beyond blog posts by generating brand mentions, PR coverage, forum participation, reviews, and bottom-of-funnel pages.",
+    "source": {
+      "name": "Multi-source (Blog + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/news-roundup-feb-2026/",
+        "https://www.youtube.com/watch?v=8DuIlUdfY_w"
+      ]
+    },
+    "quote": "links, brand mentions, PR, forums, reviews... not just blog posts"
+  },
+  {
+    "insight": "Structure content into comprehensive topic clusters that cover all sub-queries (query fan-out) so AI systems can surface your content across multiple related prompts.",
+    "source": {
+      "name": "Multi-source (Blog + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/news-roundup-mar-2026/",
+        "https://www.youtube.com/watch?v=CDYq5xlaROY"
+      ]
+    },
+    "quote": "AI works through 'query fan out'... sites that rank for all of these simplified queries perform best"
+  },
+  {
+    "insight": "Maintain strong traditional SEO performance (rankings, content quality) because AI systems preferentially cite already high-ranking and authoritative pages.",
+    "source": {
+      "name": "Multi-source (Blog + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/news-roundup-mar-2026/",
+        "https://www.youtube.com/watch?v=CDYq5xlaROY"
+      ]
+    },
+    "quote": "AI models have been shown to prefer information that’s already ranking well"
+  },
+  {
+    "insight": "Use AI tools to analyze data, identify content gaps, and track which pages are being cited by LLMs, then consolidate or optimize content accordingly.",
+    "source": {
+      "name": "LinkedIn",
+      "platform": "LinkedIn",
+      "URL": [
+        "https://www.linkedin.com/posts/mattdiggityseo_one-of-the-biggest-time-sinks-in-seo-is-pulling-activity-7436796324857024516-OZCV"
+      ]
+    },
+    "quote": "track which content was getting cited by AI systems... found content gaps and cannibalization"
+  },
+  {
+    "insight": "Reverse-engineer AI results by mapping prompts to underlying search queries and asking LLMs to explain their answers to uncover ranking signals.",
+    "source": {
+      "name": "YouTube",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://www.youtube.com/watch?v=l0WAnyRZs_4"
+      ]
+    },
+    "quote": "connecting prompts to underlying searches... get the model to explain how it arrived at its answer"
+  },
+  {
+    "insight": "Leverage structured data, schema, entity mapping, and knowledge graphs to align content with how AI systems interpret and rank information.",
+    "source": {
+      "name": "YouTube",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://www.youtube.com/watch?v=qzUSCx_R-Wg"
+      ]
+    },
+    "quote": "structured data, schemas, entity mapping, and knowledge graphs... increasingly important"
+  },
+  {
+    "insight": "Use AI to scale content production by repurposing a single data source into multiple formats (blogs, videos, newsletters) while refining tone and accuracy with human review.",
+    "source": {
+      "name": "YouTube",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://www.youtube.com/watch?v=3iNJeArrUu4"
+      ]
+    },
+    "quote": "gave the agents responsibility for a blog post, YouTube script, and newsletter... aim for 80% then refine"
+  },
+  {
+    "insight": "Automate repetitive SEO tasks like internal linking and content optimization using AI to improve efficiency and scalability.",
+    "source": {
+      "name": "Multi-source (Blog + YouTube)",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://diggitymarketing.com/news-roundup-mar-2026/",
+        "https://www.youtube.com/watch?v=qzUSCx_R-Wg"
+      ]
+    },
+    "quote": "AI can increasingly be used for... internal linking and content optimization"
+  },
+  {
+    "insight": "Create long-form, high-depth, and experience-driven content that is difficult to replicate, increasing defensibility and long-term AI visibility.",
+    "source": {
+      "name": "YouTube",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://www.youtube.com/watch?v=7pKRGZYyy9Y"
+      ]
+    },
+    "quote": "long-form content is harder to steal... pull marketing works long-term"
+  },
+  {
+    "insight": "Include comparative and competitor-related context in your content to improve AI recognition and relevance in generated answers.",
+    "source": {
+      "name": "YouTube",
+      "platform": "Diggity Marketing",
+      "URL": [
+        "https://www.youtube.com/watch?v=CDYq5xlaROY"
+      ]
+    },
+    "quote": "refusing to talk about your competitors can make AI ignore you"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "insight": "Integrate multiple first-party data sources (GA4, Search Console, GBP, site crawls) into AI systems to uncover high-ROI content gaps and prioritize efforts based on real performance data.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "LinkedIn",
+      "URL": "https://www.linkedin.com/posts/nathangotch_sorry-to-say-it-but-ai-is-absolutely-going-activity-7441912209103884288-rAxq"
+    },
+    "quote": "It connected their brand positioning, trust signals, and search performance data."
+  },
+  {
+    "insight": "Shift AI from a recommendation layer to an execution layer—use it to directly update, optimize, and deploy content to eliminate revision bottlenecks.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "LinkedIn",
+      "URL": "https://www.linkedin.com/posts/rankability-seo_one-of-the-biggest-bottlenecks-in-seo-content-activity-7450211573773799426-UpwQ"
+    },
+    "quote": "Less AI that only suggests, more AI that helps execute."
+  },
+  {
+    "insight": "Adopt a rapid iteration workflow: publish AI-assisted 'minimum viable' pages quickly, get them indexed, and improve them continuously based on rankings and data.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=HkIu_gLJEdc"
+    },
+    "quote": "Get it crawled, indexed, ranking… then keep improving it."
+  },
+  {
+    "insight": "Treat all AI-generated content as a first draft and build structured iteration loops (editing, enrichment, validation) before aiming for top rankings.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=HkIu_gLJEdc"
+    },
+    "quote": "This is always a first draft… you're going to have to iterate."
+  },
+  {
+    "insight": "Provide detailed inputs (product info, positioning, entities, constraints) when prompting AI to significantly improve topical relevance and conversion alignment.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=HkIu_gLJEdc"
+    },
+    "quote": "Give it as much raw material as possible."
+  },
+  {
+    "insight": "Ensure all AI-generated pages are rendered in clean, crawlable HTML (not JS-heavy) so search engines and LLMs can properly interpret and index the content.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=HkIu_gLJEdc"
+    },
+    "quote": "Otherwise it's basically a blank page to crawlers."
+  },
+  {
+    "insight": "Use AI to automate technical SEO at scale—schema generation, internal linking, sitemaps, and directives—to accelerate deployment across large content sets.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=HkIu_gLJEdc"
+    },
+    "quote": "You can build internal links, sitemaps, and directives with simple prompts."
+  },
+  {
+    "insight": "Re-optimize content using AI with NLP-driven competitor analysis to systematically cover missing entities, topics, and sections required for ranking.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=HkIu_gLJEdc"
+    },
+    "quote": "It will rework that entire page to cover those topics."
+  },
+  {
+    "insight": "Prioritize ranking in traditional search results, as visibility there directly increases the probability of being cited in AI-generated answers.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=xyqFSy7k9HU"
+    },
+    "quote": "Traditional search determines AI citations."
+  },
+  {
+    "insight": "Actively control your brand narrative by using AI to audit and fix inconsistencies across all web properties, ensuring accurate and consistent retrieval by LLMs.",
+    "source": {
+      "name": "Nathan Gotch",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=xyqFSy7k9HU"
+    },
+    "quote": "Find every single thing about your brand and correct it."
+  }
+]

@@ -1,0 +1,139 @@
+[
+    {
+      "insight": "Prioritize ranking in Google’s top results to increase chances of being cited in AI systems, since AI heavily pulls from traditional search rankings.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "LinkedIn + YouTube",
+        "URL": [
+          "https://www.linkedin.com/posts/edward-sturm_when-people-say-google-is-dead-or-seo-is-activity-7449343275368423425-EcS3",
+          "https://www.youtube.com/watch?v=nSLnUsOftLA"
+        ]
+      },
+      "quote": "If you know how to show up in Google, you will get cited in AI."
+    },
+    {
+      "insight": "Focus on bottom-of-funnel, high-intent keywords and create conversion-focused landing pages instead of informational blog posts.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "LinkedIn",
+        "URL": [
+          "https://www.linkedin.com/posts/edward-sturm_these-ai-overview-things-from-google-they-activity-7449124454468857856-3XKc",
+          "https://www.linkedin.com/posts/edward-sturm_post-12"
+        ]
+      },
+      "quote": "Instead of targeting these people with articles, you target them with conversion-based SEO landing pages."
+    },
+    {
+      "insight": "Identify purchase-intent keywords where you rank just below top positions (e.g., positions 4–7) and optimize those pages by adding exact-match terms prominently.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "LinkedIn",
+        "URL": [
+          "https://www.linkedin.com/posts/edward-sturm_if-you-want-your-seo-to-grow-high-like-these-activity-7450363484263075841-9k9x"
+        ]
+      },
+      "quote": "Filter for position is smaller than 7… Add your exact search term somewhere high on your page."
+    },
+    {
+      "insight": "Avoid scaling large volumes of AI-generated pages; instead, focus on fewer, high-quality pages to prevent penalties and long-term traffic drops.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "LinkedIn + YouTube",
+        "URL": [
+          "https://www.linkedin.com/posts/edward-sturm_if-a-company-ever-pitches-you-scaling-seo-activity-7448733650919186432--X2p",
+          "https://www.linkedin.com/posts/edward-sturm_post-9",
+          "https://www.youtube.com/watch?v=G3x8f3r1UB0"
+        ]
+      },
+      "quote": "Scaled AI SEO is unsustainable."
+    },
+    {
+      "insight": "Use AI as an assistant (editing, structuring, refining), not as the primary creator—start with manual outlines and direction before involving AI.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=nSLnUsOftLA"
+        ]
+      },
+      "quote": "use AI as an assistant rather than the complete architect"
+    },
+    {
+      "insight": "Structure pages manually first (H1, H2s, CTAs, key messaging), then use AI section-by-section to improve clarity, coherence, and performance.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=nSLnUsOftLA"
+        ]
+      },
+      "quote": "write what you want to appear on each page… then use AI to help"
+    },
+    {
+      "insight": "Optimize content for conversions and user intent—not just rankings—by clearly highlighting benefits, CTAs, and next steps on each page.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=nSLnUsOftLA"
+        ]
+      },
+      "quote": "It is not enough to rank for keywords. The goal is to convert."
+    },
+    {
+      "insight": "Leverage YouTube SEO by creating videos targeting key search queries and repurpose transcripts into SEO-optimized descriptions using AI.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "LinkedIn",
+        "URL": [
+          "https://www.linkedin.com/posts/edward-sturm_post-10",
+          "https://www.linkedin.com/posts/edward-sturm_post-8"
+        ]
+      },
+      "quote": "Make videos on the searches that are important to your brand… give ChatGPT your YouTube transcript"
+    },
+    {
+      "insight": "Avoid detectable patterns in AI-generated content (e.g., repeated structure, same sources, identical linking behavior) to reduce risk of algorithmic penalties.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=G3x8f3r1UB0"
+        ]
+      },
+      "quote": "if you can spot patterns, it's going to be obvious for Google"
+    },
+    {
+      "insight": "Increase AI citation likelihood by adding unique value (‘information gain’) such as original insights, aggregated data, or statistics-driven content.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=G3x8f3r1UB0"
+        ]
+      },
+      "quote": "AI likes data points… that gives this article more chance of getting cited"
+    },
+    {
+      "insight": "Enhance content with interactive elements (e.g., calculators, quizzes, templates) to improve engagement, retention, and differentiation.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=G3x8f3r1UB0"
+        ]
+      },
+      "quote": "add a calculator… or a quiz… to elevate the experience"
+    },
+    {
+      "insight": "Prioritize SEO efforts on content that drives direct business value (e.g., leads, sales, downloads) rather than purely informational traffic.",
+      "source": {
+        "name": "Edward Sturm",
+        "platform": "YouTube",
+        "URL": [
+          "https://www.youtube.com/watch?v=G3x8f3r1UB0"
+        ]
+      },
+      "quote": "the whole point of SEO is you want to do stuff that drives business value"
+    }
+  ]

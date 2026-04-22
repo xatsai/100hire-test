@@ -1,0 +1,162 @@
+[
+  {
+    "insight": "Treat AI as core marketing infrastructure by embedding it into repeatable content systems rather than using it for one-off tasks.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "Blog + YouTube",
+      "URL": [
+        "https://www.jasper.ai/blog/ai-maturity-2026",
+        "https://www.jasper.ai/blog/state-of-ai-marketing-2026",
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Treating it as marketing infrastructure rather than a standalone tool."
+  },
+  {
+    "insight": "Use AI across the full content lifecycle—planning, creation, repurposing, and distribution—to build scalable content operations.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "Blog + YouTube",
+      "URL": [
+        "https://www.jasper.ai/blog/ai-maturity-2026",
+        "https://www.jasper.ai/blog/state-of-ai-marketing-2026",
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Support end-to-end production workflows that span content planning, creation, adaptation, and activation."
+  },
+  {
+    "insight": "Repurpose a single content asset (e.g., webinar or video) into multi-channel outputs like blogs, emails, and social posts to maximize ROI.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Turn one single audio or video file into summaries, campaigns, and assets."
+  },
+  {
+    "insight": "Automate multi-channel campaign creation by generating complete asset sets (emails, ads, social posts) from a single input.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Create a full campaign in minutes."
+  },
+  {
+    "insight": "Provide rich context to AI (brand voice, company data, marketing knowledge) to generate high-quality, non-generic outputs.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Understanding the context of your business… gives you high-quality outputs."
+  },
+  {
+    "insight": "Train AI on brand guidelines, tone, and real examples, and automate compliance checks to ensure consistent, on-brand content at scale.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube + Blog",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI",
+        "https://www.jasper.ai/blog/state-of-ai-marketing-2026"
+      ]
+    },
+    "quote": "Train the voice with gold standard excerpts."
+  },
+  {
+    "insight": "Embed governance (brand, legal, compliance) directly into content workflows to safely scale AI-driven content production.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "Blog",
+      "URL": [
+        "https://www.jasper.ai/blog/state-of-ai-marketing-2026"
+      ]
+    },
+    "quote": "Managing brand consistency and approval cycles."
+  },
+  {
+    "insight": "Use domain-specific AI tools tailored for marketing workflows instead of generic tools to improve output quality, speed, and scalability.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "Blog + YouTube",
+      "URL": [
+        "https://www.jasper.ai/blog/ai-maturity-2026",
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Tools built specifically for marketing workflows."
+  },
+  {
+    "insight": "Integrate AI into existing marketing tools and workflows (e.g., CMS, CRM, automation platforms) to avoid siloed usage and improve execution speed.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Embedded into every workflow and integrated into the tools marketers use every day."
+  },
+  {
+    "insight": "Use AI to generate high-quality first drafts (80–90% complete) and rely on human review for refinement instead of manual creation from scratch.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Get you 80–90% of the way there."
+  },
+  {
+    "insight": "Measure AI success using business-impact metrics (e.g., campaign performance, revenue contribution, time saved in approvals) rather than basic productivity metrics.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "Blog",
+      "URL": [
+        "https://www.jasper.ai/blog/state-of-ai-marketing-2026"
+      ]
+    },
+    "quote": "Connect AI to pipeline impact, performance outcomes, and revenue contribution."
+  },
+  {
+    "insight": "Define clear ownership and dedicated roles for AI strategy, workflows, and performance to ensure accountability and effective scaling.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "Blog",
+      "URL": [
+        "https://www.jasper.ai/blog/ai-maturity-2026"
+      ]
+    },
+    "quote": "Formally defined AI role."
+  },
+  {
+    "insight": "Align AI initiatives with specific business goals and workflows before scaling to ensure measurable impact and ROI.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "Start with the goals and metrics… align that to the business process."
+  },
+  {
+    "insight": "Continuously experiment with new AI-driven workflows and expand successful use cases across teams to unlock compounding value.",
+    "source": {
+      "name": "Jasper AI",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=aflQ07lmmtI"
+      ]
+    },
+    "quote": "What marketing playbook can I reimagine next?"
+  }
+]

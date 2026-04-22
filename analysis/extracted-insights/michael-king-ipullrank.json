@@ -1,0 +1,119 @@
+[
+  {
+    "insight": "Shift SEO goals from rankings and traffic to AI visibility by tracking citations, mentions, and inclusion in generative responses.",
+    "source": {
+      "name": "Michael King - Blogs + YouTube",
+      "platform": "Blog + YouTube",
+      "URL": "https://ipullrank.com/ai-search-metrics | https://ipullrank.com/how-ai-mode-works | https://www.youtube.com/watch?v=vhZS8trALwQ"
+    },
+    "quote": "If you aren’t cited in that response, you don’t exist."
+  },
+  {
+    "insight": "Optimize content for semantic relevance using vector embeddings and cosine similarity to ensure alignment with queries and subqueries.",
+    "source": {
+      "name": "Michael King - Beyond Rankings",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics"
+    },
+    "quote": "Compare those embeddings using cosine similarity to get a score."
+  },
+  {
+    "insight": "Structure content at the passage level so each section independently answers a specific query or subquery for AI retrieval.",
+    "source": {
+      "name": "Michael King - How AI Mode Works",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/how-ai-mode-works"
+    },
+    "quote": "LLMs retrieve and reason at the passage level not the whole page."
+  },
+  {
+    "insight": "Increase entity richness (linked, verifiable entities like people, brands, concepts) to improve AI understanding and citation likelihood.",
+    "source": {
+      "name": "Michael King - Beyond Rankings",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics"
+    },
+    "quote": "Provides 'Knowledge Graph anchors' for AI systems."
+  },
+  {
+    "insight": "Ensure content delivers unique insights (information gain) instead of repeating existing SERP content to improve AI selection.",
+    "source": {
+      "name": "Michael King - Beyond Rankings",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics"
+    },
+    "quote": "Rewards unique insights over 'copycat content.'"
+  },
+  {
+    "insight": "Write concise, direct, and answer-first content; avoid fluff and overly complex explanations that reduce AI extractability.",
+    "source": {
+      "name": "Michael King - Blogs",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics | https://ipullrank.com/how-ai-mode-works"
+    },
+    "quote": "AI engines often look for the most direct, specific answer."
+  },
+  {
+    "insight": "Optimize for query fan-out by covering multiple related subtopics and intents, not just a single keyword.",
+    "source": {
+      "name": "Michael King - How AI Mode Works",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/how-ai-mode-works"
+    },
+    "quote": "You’re optimizing for your content to be semantically relevant across dozens of hidden queries."
+  },
+  {
+    "insight": "Create modular, well-structured content (clear sections, comparisons, facts) so AI systems can easily extract and recombine information.",
+    "source": {
+      "name": "Michael King - How AI Mode Works",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/how-ai-mode-works"
+    },
+    "quote": "Content needs to be modular and extractable."
+  },
+  {
+    "insight": "Include comparative and decision-oriented content (pros/cons, alternatives, recommendations) to align with AI reasoning and ranking.",
+    "source": {
+      "name": "Michael King - How AI Mode Works",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/how-ai-mode-works"
+    },
+    "quote": "Content that articulates pros, cons, and 'why X over Y' survives better."
+  },
+  {
+    "insight": "Balance depth with clarity—avoid overly long or complex content unless it increases factual density and entity coverage.",
+    "source": {
+      "name": "Michael King - Beyond Rankings",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics"
+    },
+    "quote": "Increasing word count without increasing entity count decreased citation probability."
+  },
+  {
+    "insight": "Maintain strong traditional rankings (top 5–10) as a baseline, since AI systems still rely on trusted indexed sources.",
+    "source": {
+      "name": "Michael King - Beyond Rankings",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics"
+    },
+    "quote": "To be cited by an AI, you first have to be trusted by the index."
+  },
+  {
+    "insight": "Expand content strategy to multimodal formats (video, audio, visuals) to increase inclusion across AI-generated outputs.",
+    "source": {
+      "name": "Michael King - How AI Mode Works",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/how-ai-mode-works"
+    },
+    "quote": "Relying solely on text-based content risks being left out altogether."
+  },
+  {
+    "insight": "Run controlled experiments on content changes (entities, structure, depth) instead of applying broad SEO best practices.",
+    "source": {
+      "name": "Michael King - Beyond Rankings",
+      "platform": "Blog",
+      "URL": "https://ipullrank.com/ai-search-metrics"
+    },
+    "quote": "Run controlled experiments... not to over-optimize the entire site at once."
+  }
+]

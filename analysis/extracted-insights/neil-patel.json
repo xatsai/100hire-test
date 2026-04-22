@@ -1,0 +1,128 @@
+[
+  {
+    "insight": "Prioritize E-E-A-T signals by showcasing real expertise, author credentials, firsthand experience, and verifiable results to increase AI trust and likelihood of citation.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "LinkedIn + YouTube",
+      "URL": "https://www.linkedin.com/posts/neilkpatel_seo-googlerankings-digitalmarketing-activity-7450513539800367104-7la2; https://www.youtube.com/watch?v=Oky5BX30f0A"
+    },
+    "quote": "Google's actively looking for real expertise... Add author bios, credentials, and firsthand stories."
+  },
+  {
+    "insight": "Shift SEO strategy from ranking for clicks to earning citations in AI-generated answers by building authority, trust signals, and structured content.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=3q3WBkSoANA"
+    },
+    "quote": "Stop optimizing for traffic. Start optimizing to get cited."
+  },
+  {
+    "insight": "Build topical authority using pillar pages and interlinked subtopics to demonstrate deep subject understanding instead of relying on keyword density.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "Create one pillar page... and link to subtopics... that interlinking signals... you fully understand the topic."
+  },
+  {
+    "insight": "Use semantic SEO by incorporating related entities, concepts, and context naturally to help AI systems understand topic depth.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "Use semantic variety... so AI understands the full context."
+  },
+  {
+    "insight": "Structure content for AI consumption by directly answering questions, using concise paragraphs, bullet points, and clear headings.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "Write like you're answering a question... use short paragraphs, bullet points, and subheadings."
+  },
+  {
+    "insight": "Target long-tail, complex queries that require expert explanations, as these are more likely to trigger AI citations than simple keywords.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=3q3WBkSoANA"
+    },
+    "quote": "Complexity is the moat... long complex queries trigger AI overviews 77% of the time."
+  },
+  {
+    "insight": "Implement structured data (schema markup) and clear formatting to make content machine-readable and increase eligibility for AI extraction.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "Schema is like a nutrition label for your content."
+  },
+  {
+    "insight": "Enhance content with multimodal elements (videos, images, charts) and explicit data (stats, lists, tables) to boost AI citation probability.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "Blogs with images, videos, and data visualizations get cited way more often."
+  },
+  {
+    "insight": "Build authority through consistent cross-platform presence and messaging alignment across website, social, and content channels.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube + LinkedIn",
+      "URL": "https://www.youtube.com/watch?v=Oky5BX30f0A; https://www.linkedin.com/posts/neilkpatel_if-you-arent-consistent-in-your-messaging-activity-7449214882756927488-ZEPv"
+    },
+    "quote": "Consistency signals authority. Contradiction signals confusion."
+  },
+  {
+    "insight": "Actively earn external citations and mentions by contributing to industry publications, podcasts, and trusted platforms.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=Oky5BX30f0A"
+    },
+    "quote": "Contribute to industry publications... every reputable citation reinforces your authority."
+  },
+  {
+    "insight": "Track AI-specific performance metrics such as citations, AI overview appearances, and engagement instead of relying only on traffic and rankings.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "Track how often your content is referenced or cited in AI summaries."
+  },
+  {
+    "insight": "Continuously test and refine content by checking how AI tools summarize it and improving clarity when key points are missed.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "If AI misses your key points... rewrite for clarity."
+  },
+  {
+    "insight": "Focus on high-intent, niche topics rather than broad keywords to drive conversions, as AI filters out low-quality traffic.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "LinkedIn",
+      "URL": "N/A"
+    },
+    "quote": "Ultra-specific content... lands the seven-figure clients."
+  },
+  {
+    "insight": "Maintain consistent publishing (especially blogs) as AI systems heavily cite blog-style content despite declining traditional traffic.",
+    "source": {
+      "name": "Neil Patel",
+      "platform": "YouTube",
+      "URL": "https://www.youtube.com/watch?v=tMBdA2gkXgk"
+    },
+    "quote": "If you don't blog, you're not going to get included... blogs dominate."
+  }
+]

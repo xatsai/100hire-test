@@ -1,0 +1,119 @@
+[
+    {
+      "insight": "Retrieval rank is the single most important signal for AI citation. A page at position #1 in ChatGPT's retrieval results has a 58% citation rate vs. 14% at position #10 — a 4x gap that no amount of content quality alone can close. Great traditional SEO is your primary advantage in AI search.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "LinkedIn",
+        "URL": "https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54"
+      },
+      "quote": "A page at position 1 in ChatGPT's retrieval results has a 58% citation rate vs. 14% at position 10 — a 4x gap that no amount of content quality alone won't close."
+    },
+    {
+      "insight": "Heading structure is the primary on-page lever for AI citation — more impactful than word count, topical breadth, or body copy. Pages with headings that closely match the user's query are cited 41% of the time vs. 29% for weak matches. Optimize headings to directly mirror the exact language of target queries.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "LinkedIn",
+        "URL": "https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54"
+      },
+      "quote": "Pages with headings that closely match the user's query are cited 41% of the time vs. 29% for weak matches. Heading structure is the primary on-page lever for AI citation — more impactful than word count, topical breadth, or body copy."
+    },
+    {
+      "insight": "Domain authority and backlinks show no positive correlation with AI citation in ChatGPT — they are slightly inversely correlated. ChatGPT evaluates content based on direct relevance and structure, not authority signals. Shift link-building budget toward content relevance and structured formatting.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "LinkedIn",
+        "URL": "https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54"
+      },
+      "quote": "Domain authority and backlinks show no positive correlation with AI citation — and are slightly inversely correlated. ChatGPT evaluates content directly based on relevance and structure, not authority signals."
+    },
+    {
+      "insight": "AI crawlers cannot render JavaScript. Unlike Googlebot, which has years of experience rendering JS (even if imperfectly at scale), AI crawlers read raw HTML only. Any critical content — navigation, product information, main body text — that relies on client-side JavaScript rendering will be completely invisible to AI systems. Audit and remediate JS-dependent content as a foundational AI SEO step.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=pqrwpXpMM6s"
+      },
+      "quote": "AI crawlers don't render JavaScript at all. So if you rely on client-side render JavaScript for critical content or navigation, this is information that AI crawlers won't see."
+    },
+    {
+      "insight": "Many hosting providers and CDNs silently block AI crawlers by default — without notifying site owners. Actively validate that AI bots (GPTBot, Google-Extended, etc.) can access your site via robots.txt, CDN rules, and firewall settings. This should be an opt-in decision with full awareness of the implications, not a default you discover accidentally.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=pqrwpXpMM6s"
+      },
+      "quote": "Be aware that many hosting companies will proactively block AI bots and you should opt out of that if you don't want to. It should be more of an opt-in type of behavior rather than opt out."
+    },
+    {
+      "insight": "AI search must be treated as a branding and influence channel, not a direct performance channel. LLM answers influence purchasing decisions even when they don't generate a direct click or referral visit. Measure AI visibility through share of voice, sentiment of brand mentions, and multi-touch attribution — not just sessions and conversions.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=pqrwpXpMM6s"
+      },
+      "quote": "It will be very myopic to treat AI search through that lens. There's a layer of branding to consider — the inclusion, the visibility, the share of voice, the sentiment of the mention even if it doesn't carry a link and doesn't refer direct traffic. It plays a role within the purchasing journey."
+    },
+    {
+      "insight": "Do not cut informational content — reshape it. Generic, glossary-style top-of-funnel content that drives no commercial connection is worth dropping. But on-brand informational content (original research, case studies, competitor comparisons, expert FAQs, community-sourced questions) is essential for AI topical authority across the full customer journey. Brands that eliminate all informational content will lose AI visibility and personalization resilience.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=c8D07e6qmvQ"
+      },
+      "quote": "Think more about industry insights, research stats, trends, case studies, thought leadership, comparisons versus competitors, FAQs. This is content that doesn't only make sense to get traffic but also makes sense to address your clients well and to provide good pre-sales and post-sales support."
+    },
+    {
+      "insight": "Do not obsess over tracking specific prompts in AI search. LLM answers are highly personalized based on user context, location, history, and memory — the same question rarely produces the same answer twice. Instead, track AI visibility at the topic and product-line level, monitoring share of voice and sentiment for brand vs. competitors within those topic clusters over time.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=BjyF_4UhoOM"
+      },
+      "quote": "Rather than obsessing on specific prompts that might have x or y value, we should think about the topics that actually make sense for us to go for to get visibility — independently of the wording."
+    },
+    {
+      "insight": "Structure content for passage-level (chunk) retrieval, not just page-level authority. AI systems fan out queries into sub-queries and extract individual passages from multiple pages to synthesize answers. Each section or paragraph must be semantically self-contained — one clear concept, structured with a descriptive heading, and understandable without needing the surrounding sections for context.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=BjyF_4UhoOM"
+      },
+      "quote": "Keep each text passage tightly focused on a single concept, well-structured using accessible and well-formatted HTML so it's easier to grab. Each unit or paragraph or section should be treated as a standalone snippet — semantically tight and self-contained."
+    },
+    {
+      "insight": "Winning sites in 2026 share five measurable features: offering a product or service (70.2% of winners vs. 34.6% of losers), enabling task completion (83.7% vs. 50.2%), having proprietary assets (92.9% vs. 57.1%), maintaining tight topical focus (75.9% vs. 61.3%), and building a strong brand (32.6% vs. 16.1%). These are the structural traits Google's algorithm is rewarding — prioritize accordingly.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "LinkedIn",
+        "URL": "https://www.linkedin.com/posts/aleyda_5-data-backed-features-of-websites-winning-activity-7448078332195135489-Bev5"
+      },
+      "quote": "5 Data-Backed Features of Websites Winning Google in 2026: Offers a Product or Service (70.2% winners), Allows Task Completion (83.7%), Proprietary Assets (92.9%), Tight Topical Focus (75.9%), Strong Brand (32.6%)."
+    },
+    {
+      "insight": "The Google March 2026 Core Update systematically demoted intermediary, aggregator, and quick-answer utility sites in favor of direct destination brands, specialist sources, and dominant platforms. In every affected vertical — dictionaries, jobs, travel, real estate, health, finance — the same pattern held: generic discovery layers lost, while brands with a clear, specific claim on the query gained. Audit your site for intermediary-style content that lacks a direct brand connection.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "LinkedIn",
+        "URL": "https://www.linkedin.com/posts/aleyda_google-march-2026-core-update-visibility-activity-7449434998929076224-GnU_"
+      },
+      "quote": "One of the clearest early patterns was a shift away from many intermediary, aggregator, directory, and quick-answer utility sites, and toward a smaller set of stronger destination brands, institutional sources, specialist sites, and dominant platforms."
+    },
+    {
+      "insight": "Brand mentions now carry more weight in AI search than they did in traditional SEO. While links remain the stronger signal (they pass a mention plus authority), citations and references without links are now a meaningful ranking input for AI systems. Invest in digital PR focused on brand mentions in prominent publications — not just followed links — and align SEO strategy with community management to influence how brand is discussed on forums and Reddit.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=BjyF_4UhoOM"
+      },
+      "quote": "You don't necessarily need to attract a link pointing to your site with an optimized anchor text — just a mention already matters. Of course the link is still preferred, but mentions, citations, references of your brand already have weight and are taken into account."
+    },
+    {
+      "insight": "Before investing in AI search optimization, conduct a baseline audit: measure how much traffic and revenue AI platforms are already contributing, benchmark your brand's AI visibility vs. competitors across relevant topic clusters, identify which platforms are driving citations (and which are blocking your crawlers), and check whether your brand appears in a positive or negative sentiment. Investment level should be proportionate to the gap and opportunity found.",
+      "source": {
+        "name": "Aleyda Solis",
+        "platform": "YouTube",
+        "URL": "https://www.youtube.com/watch?v=BjyF_4UhoOM"
+      },
+      "quote": "How much are AI platforms already bringing to your traffic and revenue? What is your visibility for relevant queries versus competitors? Are the citations coming from platforms you have actively optimized, or platforms where you have no presence and no control?"
+    }
+  ]

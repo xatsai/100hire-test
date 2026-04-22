@@ -1,0 +1,114 @@
+[
+  {
+    "insight": "Use AI to execute specific SEO production tasks (keyword research, page titles, metadata, URL structuring, subheadings, research, citations) to drastically increase content production speed.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=gA6FeORa7MY",
+        "https://www.youtube.com/watch?v=hHDF_7NjH1c"
+      ]
+    },
+    "quote": "We're using it to do keyword research… write page titles… restructure URL slugs… I can use it to write subheadings, research, citations."
+  },
+  {
+    "insight": "Generate SEO content using AI but control output quality by feeding structured prompts, directives, and business-specific context instead of relying on generic prompts.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=gA6FeORa7MY",
+        "https://www.youtube.com/watch?v=hHDF_7NjH1c"
+      ]
+    },
+    "quote": "We'll still give it prompts… directives… the information that it needs."
+  },
+  {
+    "insight": "Build long-form, high-intent landing pages (3,000–5,000 words) targeting city + service combinations with FAQs, internal linking, and conversion-focused structure.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "LinkedIn",
+      "URL": [
+        "https://www.linkedin.com/posts/thedigitalmarketingconsultant_i-just-off-a-call-with-a-law-firm-paying-activity-7434580291450466304-BO__"
+      ]
+    },
+    "quote": "City + practice combinations… 3,000–5,000 words… Clear FAQs… Internal linking… Conversion-focused structure."
+  },
+  {
+    "insight": "Prioritize keywords that directly drive conversions and revenue instead of producing informational content, as AI search reduces top-of-funnel traffic value.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=Ox4B1AIJFY4"
+      ]
+    },
+    "quote": "We're only going to look at the keywords that are going to drive business value."
+  },
+  {
+    "insight": "Map each keyword to actual SERP behavior (ads, local pack, AI results) and choose the optimal channel instead of defaulting to SEO content creation.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=Ox4B1AIJFY4"
+      ]
+    },
+    "quote": "We're plugging that in manually and saying… what's happening in search engines."
+  },
+  {
+    "insight": "Combine SEO and PPC datasets using AI to identify keywords where organic content can replace high CPC paid traffic.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "LinkedIn",
+      "URL": [
+        "https://www.linkedin.com/posts/thedigitalmarketingconsultant_ive-been-pitching-blended-search-to-clients-activity-7439749964622118912-44v2"
+      ]
+    },
+    "quote": "Keywords they're spending $50 a click on where a content push could eliminate that cost entirely."
+  },
+  {
+    "insight": "Automate link prospecting and outreach by feeding AI predefined SOPs including search operators, quality filters, and outreach workflows.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "LinkedIn",
+      "URL": [
+        "https://www.linkedin.com/posts/thedigitalmarketingconsultant_we-used-to-have-a-va-overseas-doing-link-activity-7437578250047987713-dI_h"
+      ]
+    },
+    "quote": "Prospects link opportunities… pulls DR and traffic… runs through our checklist… builds outreach sequences."
+  },
+  {
+    "insight": "Build standardized prompt libraries and run them repeatedly (weekly) across AI search engines to track visibility and performance trends.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=9Svz4PE8psI"
+      ]
+    },
+    "quote": "We build a list of standard prompts and run them on a weekly basis."
+  },
+  {
+    "insight": "Automate AI search tracking by creating agents that continuously run prompts, log outputs, and generate datasets for analysis and visualization.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "YouTube",
+      "URL": [
+        "https://www.youtube.com/watch?v=9Svz4PE8psI"
+      ]
+    },
+    "quote": "An AI agent that's constantly prompting… documenting… and building visualization."
+  },
+  {
+    "insight": "Train AI on brand-specific design systems and workflows to scale landing page and funnel creation rapidly after initial setup.",
+    "source": {
+      "name": "Ryan Stewart",
+      "platform": "LinkedIn",
+      "URL": [
+        "https://www.linkedin.com/posts/thedigitalmarketingconsultant_continuing-to-get-really-good-results-using-activity-7439098005535969280-tRG5"
+      ]
+    },
+    "quote": "Once it has your design style down… you can go from idea to fully funnel in minutes."
+  }
+]
