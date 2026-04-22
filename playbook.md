@@ -8,9 +8,9 @@ The goal is to use AI for speed and structure while ensuring content quality thr
 
 ## Recommendations
 
-### 1. Stop writing just to rank on Google. Start writing so the content can be easily picked up, understood, and used by AI systems in small chunks.
+### 1. Stop writing just to rank on Google. Start writing so that content can be easily picked up, understood, and used by AI systems in small chunks.
 
-#### Make every section of the content work on its own. AI doesn’t read the page from top to bottom, it pulls out small pieces to answer specific questions. If a paragraph only makes sense with extra context, it may be ignored. Write each H2 section like it’s the only thing the user will see. Start with a clear heading, give a direct answer right away, and make sure the explanation is complete on its own.
+#### Make every section of the content work on its own. AI doesn’t read the page from top to bottom, it pulls out small pieces to answer specific questions. If a paragraph only makes sense with extra context, it may be ignored. Write each H2 section as if it’s the only thing the user will see. Start with a clear heading, give a direct answer right away, and make sure the explanation is complete on its own.
 
 Sources: 
 Ahrefs – https://ahrefs.com/blog/how-to-rank-in-ai-overviews/ : 20-01-2026
@@ -28,7 +28,7 @@ Aleyda Solis – https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-h
 
 --------------------------------------
 
-### 3. Focus on building brand mentions not just backlinks
+### 3. Focus on building brand mentions, not just backlinks
 
 #### Brand mentions now outperform backlinks as the top factor for AI visibility, with a 0.66–0.71 correlation across AI platforms. So shift the focus to digital PR, Reddit, creator collaborations, and reviews because mentions without links still add value, while links without real brand presence matter less than before.
 
@@ -82,7 +82,7 @@ Neil Patel – https://www.youtube.com/watch?v=3q3WBkSoANA : 18-03-2026
 
 ### 8. Most AI citations are platform-specific. Build presence across all ecosystems
 
-#### Around 86% of AI citations are exclusive to a single platform, and only a small fraction of domains appear across Google AI Overviews, ChatGPT, and Perplexity at the same time. Each platform pulls from different sources Google AI leans toward YouTube, Reddit, and Quora whereas ChatGPT favors news sites and authoritative blogs. Perplexity prioritizes niche and regional experts. If you rely on just one channel, you’re limiting your visibility to a fraction of the opportunity.
+#### Around 86% of AI citations are exclusive to a single platform, and only a small fraction of domains appear across Google AI Overviews, ChatGPT, and Perplexity at the same time. Each platform pulls from different sources. Google AI leans toward YouTube, Reddit, and Quora, whereas ChatGPT favors news sites and authoritative blogs. Perplexity prioritizes niche and regional experts. If you rely on just one channel, you’re limiting your visibility to a fraction of the opportunity.
 
 Sources:
 Ahrefs – https://www.youtube.com/watch?v=gReszNnykpg : 26-11-2025
@@ -95,9 +95,9 @@ Aleyda Solis – https://www.youtube.com/watch?v=BjyF_4UhoOM : 10-09-2025
 
 ### Disagreement 1: Should you scale AI content or limit it?
 
-Julian Goldie recommends for aggressive publishing around 15–20 AI-generated articles per month, treating content as a compounding asset. His belief is that speed wins: publish fast, capture rankings early, and optimize later based on performance.
+Julian Goldie recommends aggressive publishing of around 15–20 AI-generated articles per month, treating content as a compounding asset. His belief is that speed wins: publish fast, capture rankings early, and optimize later based on performance.
 
-Edward Sturm takes the opposite stance. He argues that scaled AI content creates detectable patterns (repetitive structure, similar linking, predictable phrasing) that Google will eventually penalize. His position is what works now won’t survive future updates.
+Edward Sturm takes the opposite stance. He argues that scaled AI content creates detectable patterns (repetitive structure, similar linking, predictable phrasing) that Google will eventually penalize. His position is what works now, but won’t survive future updates.
 
 #### My Take: Edward's concern is more durable long-term. SEO history shows that scaled, pattern-driven strategies eventually get hit. However, going too slow also means missing opportunities. So my take is to publish quickly while making sure content remains lean and differentiated
 
@@ -107,9 +107,9 @@ Edward Sturm takes the opposite stance. He argues that scaled AI content creates
 
 Neil Patel believes authority still plays a key role. His framework emphasizes building strong domain trust, consistent branding, and topical authority across platforms suggesting that these signals influence whether AI systems cite you.
 
-Aleyda Solis challenges this with data. Her findings show no positive correlation between domain authority/backlinks and citations in ChatGPT. In fact, a slight negative correlation. Her conclusion was AI systems prioritize direct relevance, clarity, and structure over traditional authority metrics.
+Aleyda Solis challenges this with data. Her findings show no positive correlation between domain authority/backlinks and citations in ChatGPT. In fact, a slight negative correlation. Her conclusion was that AI systems prioritize direct relevance, clarity, and structure over traditional authority metrics.
 
-#### My Take: Aleyda is right but only within a specific context. Her data reflects ChatGPT’s behavior, not the entire AI ecosystem. For Google AI Overviews, authority still matters indirectly because citations often come from top-ranking pages.
+#### My Take: Aleyda is right, but only within a specific context. Her data reflects ChatGPT’s behavior, not the entire AI ecosystem. For Google AI Overviews, authority still matters indirectly because citations often come from top-ranking pages.
 
 ----------------------------
 
@@ -137,15 +137,15 @@ Source: Julian Goldie
 
 Source: Julian Goldie
 
-#### Why Rejected: The volume of article is misleading parameter. Without content differentiation, it leads to content cannibalization, weak topical authority, and detectable AI patterns
+#### Why Rejected: The volume of the article is a misleading parameter. Without content differentiation, it leads to content cannibalization, weak topical authority, and detectable AI patterns
 
 -------------------------
 
 ## My Original Ideas
 
-### I recommend to build a citation persona for a brand. 
+### I recommend building a citation persona for a brand. 
 
-Ahrefs shows brand mentions are the #1 AI visibility signal and Michael King also identifies entity richness as a core AI selection factor. I think AI models build understanding through repeated patterns across sources. If the brand consistently uses the same positioning, terminology, and claims, it becomes more retrievable and clearly defined.
+Ahrefs shows brand mentions are the #1 AI visibility signal, and Michael King also identifies entity richness as a core AI selection factor. I think AI models build understanding through repeated patterns across sources. If the brand consistently uses the same positioning, terminology, and claims, it becomes more retrievable and clearly defined.
 
 --------------------------
 
@@ -153,7 +153,7 @@ Ahrefs shows brand mentions are the #1 AI visibility signal and Michael King als
 
 ### 1. Most insights are based on Google AI Overviews. ChatGPT and Perplexity use different retrieval logic, so cross-platform assumptions may not hold.
 
-### 2. Many insights are for establish brands assuming existing visibility. So new or small brands may find it difficult to implement.
+### 2. Many insights are for established brands, assuming existing visibility. So new or small brands may find it difficult to implement.
 
 ### 3. AI systems are evolving quickly, which means current patterns and best practices may become outdated soon.
 
@@ -163,7 +163,7 @@ Ahrefs shows brand mentions are the #1 AI visibility signal and Michael King als
 
 ### Julian Goldie
 
-Julian offers useful tactics like repurposing, low-competition targeting, video embeds. But his core strategy leans on high-volume AI content, detection avoidance, and thin pages which is optimized for short-term gains.
+Julian offers useful tactics like repurposing, low-competition targeting, and video embeds. But his core strategy leans on high-volume AI content, detection avoidance, and thin pages which are optimized for short-term gains.
 
 Several of his recommendations conflict with stronger evidence like volume over density, “humanizing” AI instead of adding real information gain, and keyword selection based on difficulty rather than intent and SERP behavior.
 
